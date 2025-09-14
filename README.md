@@ -1,2 +1,67 @@
-# MindBridge
-MindBridge – A digital mental health and psychological support platform for students in higher education, with AI-guided resources, confidential counselling, peer support forums, and real-time analytics. Designed for accessibility, cultural relevance, and institutional integration, especially in underserved regions.
+# 🌐 MindBridge
+**A Digital Mental Health & Psychological Support System for Students**
+
+MindBridge is a comprehensive platform designed to provide stigma-free, accessible, and culturally relevant mental health support to higher education students.  
+The system integrates **AI-guided assistance, confidential counselling, peer-to-peer forums, multilingual resources, and actionable analytics** – tailored for both urban and underserved regions.
+
+---
+
+## 🚀 Key Features
+### 🎯 MVP (Minimum Viable Product)
+- 🤖 **AI-Guided Self-Help** – Mental health screening & stress management tips.  
+- 🔒 **Confidential Counselling Access** – Appointment booking with counsellors.  
+- 📚 **Psychoeducational Resources** – Articles, videos, toolkits in local languages.  
+- 👥 **Peer Support Forums** – Anonymous, moderated, safe spaces for students.  
+- 📊 **Institution Dashboard** – Usage stats & anonymized early warning indicators.  
+
+### 🔮 Future Enhancements
+- Sentiment analysis & high-risk detection in chats/forums.  
+- Voice + regional language chatbot.  
+- Offline-first mobile app for low-connectivity areas.  
+- Gamified wellbeing challenges.  
+
+---
+
+## 🏗️ System Architecture
+- **Frontend**: Web + Mobile (React/Flutter)  
+- **Backend**: Node.js / Django REST APIs  
+- **Database**: PostgreSQL / MongoDB  
+- **AI/ML**: Mental health screening, sentiment analysis  
+- **Dashboard**: Admin & Counsellor analytics  
+
+---
+
+## 📊 Example Data Schema
+### Student Profile
+```json
+{
+  "student_id": "S12345",
+  "name": "Placeholder",
+  "institution": "XYZ College",
+  "preferred_language": "en",
+  "mental_health_score": null,
+  "last_checkin": "2025-09-10"
+}
+```
+
+---
+
+## 📅 Development Roadmap
+| Milestone                | Timeline (Weeks) | Deliverables |
+|---------------------------|------------------|--------------|
+| Requirements Gathering    | 1                | Problem scoping |
+| MVP Design & Prototyping  | 2-3              | UI mockups, DB schemas |
+| Core Development          | 4-6              | MVP features, testing |
+| Peer Mod/Admin Training   | 7                | Escalation process |
+| User Acceptance Testing   | 8                | Feedback cycle |
+| Final Deployment          | 9                | Launch & monitoring |
+
+---
+
+## 🤝 Contributing
+We welcome contributions! Please open an issue or pull request.  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.

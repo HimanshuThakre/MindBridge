@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user1",
+      "description": "Portrait of a smiling student",
+      "imageUrl": "https://picsum.photos/seed/user1/100/100",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "user2",
+      "description": "Profile picture of a person outdoors",
+      "imageUrl": "https://picsum.photos/seed/user2/100/100",
+      "imageHint": "person nature"
+    },
+    {
+      "id": "user3",
+      "description": "Student wearing headphones",
+      "imageUrl": "https://picsum.photos/seed/user3/100/100",
+      "imageHint": "student headphones"
+    },
+    {
+      "id": "user4",
+      "description": "A person reading a book",
+      "imageUrl": "https://picsum.photos/seed/user4/100/100",
+      "imageHint": "person reading"
+    },
+    {
+      "id": "counselor1",
+      "description": "Professional headshot of a counselor",
+      "imageUrl": "https://picsum.photos/seed/counselor1/100/100",
+      "imageHint": "professional headshot"
+    },
+    {
+      "id": "counselor2",
+      "description": "Friendly-looking therapist",
+      "imageUrl": "https://picsum.photos/seed/counselor2/100/100",
+      "imageHint": "therapist portrait"
+    },
+    {
+      "id": "counselor3",
+      "description": "A counselor in their office",
+      "imageUrl": "https://picsum.photos/seed/counselor3/100/100",
+      "imageHint": "counselor office"
+    },
+    {
+      "id": "resource1",
+      "description": "Person practicing mindfulness in a serene setting",
+      "imageUrl": "https://picsum.photos/seed/resource1/600/400",
+      "imageHint": "mindfulness serene"
+    },
+    {
+      "id": "resource2",
+      "description": "Abstract shapes representing complex emotions",
+      "imageUrl": "https://picsum.photos/seed/resource2/600/400",
+      "imageHint": "abstract emotion"
+    },
+    {
+      "id": "resource3",
+      "description": "Calming nature scene with a river",
+      "imageUrl": "https://picsum.photos/seed/resource3/600/400",
+      "imageHint": "nature river"
+    },
+    {
+      "id": "resource4",
+      "description": "A person journaling at a desk",
+      "imageUrl": "https://picsum.photos/seed/resource4/600/400",
+      "imageHint": "journaling desk"
+    },
+    {
+      "id": "resource5",
+      "description": "Someone listening to music with headphones",
+      "imageUrl": "https://picsum.photos/seed/resource5/600/400",
+      "imageHint": "music headphones"
+    },
+    {
+      "id": "resource6",
+      "description": "A group of friends talking and supporting each other",
+      "imageUrl": "https://picsum.photos/seed/resource6/600/400",
+      "imageHint": "friends support"
+    }
+  ]
+}

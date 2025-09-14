@@ -45,19 +45,6 @@ The system integrates **AI-guided assistance, confidential counselling, peer-to-
 ```
 
 ---
-
-## 📅 Development Roadmap
-| Milestone                | Timeline (Weeks) | Deliverables |
-|---------------------------|------------------|--------------|
-| Requirements Gathering    | 1                | Problem scoping |
-| MVP Design & Prototyping  | 2-3              | UI mockups, DB schemas |
-| Core Development          | 4-6              | MVP features, testing |
-| Peer Mod/Admin Training   | 7                | Escalation process |
-| User Acceptance Testing   | 8                | Feedback cycle |
-| Final Deployment          | 9                | Launch & monitoring |
-
----
-
 ## 🤝 Contributing
 We welcome contributions! Please open an issue or pull request.  
 
